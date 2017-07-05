@@ -1,2 +1,2 @@
 Exercícios da quarta lista
-jflap-files: Comtem os arquivos em formato ".jff" com as solucoes de alguns exercicios 
+jflap-files: Comtém as solucoes dos exercícios da parte 1 os arquivos em formato ".jff"
